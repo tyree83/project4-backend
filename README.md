@@ -1,4 +1,4 @@
-# Wishing Well - BackEnd
+# Wishing Well - Back End
 
 - `bundle install`
 - rails db:create(only run once)
